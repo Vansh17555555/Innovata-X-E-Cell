@@ -1,5 +1,6 @@
 # SecureFlow : End-to-End Fraud Detection System
-![alt text](<Screenshot 2024-07-20 at 2.29.08 PM-1.png>)
+![Uploading Screenshot 2024-07-20 at 2.29.08 PM.png…]()
+
 
 SecureFlow: End-to-End Fraud Detection System
 SecureFlow is an advanced fraud detection system designed to identify and mitigate fraudulent activities in financial transactions. By leveraging machine learning and data analysis, SecureFlow provides real-time fraud detection and transaction scoring to ensure secure financial transactions.
